@@ -1,0 +1,41 @@
+
+
+
+div{
+    border: 5px solid rgb(131, 73,223);
+    border-radius: 5px;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+    
+}
+
+
+div h1{
+    color: aqua;
+    
+}
+div h2{
+    color: aliceblue;
+}
+
+div h3 {
+    color: #fff;
+}
+
+
+
+a{
+    text-decoration: none;
+    background-color: blanchedalmond;
+}
+a:hover{
+    color: rgb(226, 43, 141);
+    cursor: pointer;
+    
+}
+
+    
+

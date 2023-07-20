@@ -1,0 +1,21 @@
+.f{
+    
+    border: 3px solid  red;
+    width: 40%;
+}
+
+.f img{
+    width: 100%;
+    position: relative;
+}
+
+.a{
+    
+    border: 3px solid blue;
+    width: 40%;
+}
+
+.a img{
+    width: 100%;
+    position: absolute;
+}
